@@ -49,7 +49,7 @@ The Product API Project is a Spring Boot application designed to manage products
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/Deeffault/IMT-Web_API_Data-ProductAPI.git
     ```
 2. Change directory to the project root:
 3. Build the Docker image:
